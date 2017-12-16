@@ -1,0 +1,27 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	width: 400px;
+	margin: 50px auto;
+}
+
+form{
+	width: 100%;
+	background-color: lightblue;
+	padding: 10px 10px;
+}
+
+h1{
+	color: red;
+	background-color: blue;
+	text-align: center;
+}
+
+input[type="submit"]{
+	margin-bottom: 8px;
+}
+
+
